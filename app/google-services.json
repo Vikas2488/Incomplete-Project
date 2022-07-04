@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1006295975518",
+    "project_id": "newnight-8df56",
+    "storage_bucket": "newnight-8df56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006295975518:android:ea1cfdf86ddc422ac156cf",
+        "android_client_info": {
+          "package_name": "com.example.firebaseappdistribution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006295975518-na8nn94ptflt91sae6r4ji31nkgj1sad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAcetHo67BP60d2fosfulufFFDbzLcRrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006295975518-na8nn94ptflt91sae6r4ji31nkgj1sad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
